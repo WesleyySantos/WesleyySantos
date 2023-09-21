@@ -50,6 +50,6 @@
 </div>
 
 
-![snake animation](https://github.com/<WesleyySantos>/<WesleyySantos>/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/<snake-gif>/<snake-gif>/blob/output/github-contribution-grid-snake2.svg)
 
 
