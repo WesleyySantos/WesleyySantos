@@ -4,7 +4,7 @@
 </h1>
 
 
-# Hello There 👋, I'm Wesley Bispo 🧑‍💻
+# Olá! 👋, Eu sou o Wesley Bispo 🧑‍💻
 
 <!-- Background -->
 
@@ -13,9 +13,9 @@
 <!-- Introduction -->
 
 
-### Hi there 👋
 
-### Olá! Eu sou o Wesley Bispo 🖐️
+
+### Redes Sociais
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesley-santos-56869a266/)
 
 
